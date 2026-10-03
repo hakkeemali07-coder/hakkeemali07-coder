@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Hakkeem Ali
 
-<!--
-**hakkeemali07-coder/hakkeemali07-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech Information Technology Student  
+🚀 Aspiring Software Developer  
+🤖 Exploring AI & Technology  
+🌱 Learning • Building • Exploring
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML & CSS
+- JavaScript
+- Python
+- Git & GitHub
+- Web Development
+- AI & Technology
+
+## 🚀 Currently
+
+- 📚 Learning new technologies
+- 💻 Building real-world projects
+- 🔍 Exploring AI and software development
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn link here
+- GitHub: @hakkeemali07-coder
+
+---
+
+⭐ Thanks for visiting my profile!
